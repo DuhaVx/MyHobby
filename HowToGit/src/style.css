@@ -1,0 +1,59 @@
+body{
+    background-color: #5ED0BD;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    border-bottom: solid 2px;
+    font-style: unset;
+}
+
+.foto{
+    display: block;
+    margin: 0 auto;
+     width: 50%;
+    border-radius: 24px;
+}
+
+.block-text{
+    background-color: #FFDA73;
+    padding: 10px;
+    border-radius: 24px;
+    border: solid 2px #AC66D5;
+    margin: 20px auto;
+    max-width: 900px;
+}
+.block-text:hover{
+    background: #FFBB00;
+    border: 3px solid #6F0AAA;
+    margin: 15px auto;
+}
+
+h2{
+    text-align: center;
+    font-style: unset;
+}
+.footer {
+    background: repeating-linear-gradient(
+        45deg,
+        #606dbc,
+        #606dbc 10px,
+        #465298 10px,
+        #465298 20px
+      );
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer p {
+    margin: 0;
+}
